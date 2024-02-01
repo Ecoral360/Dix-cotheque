@@ -1,3 +1,0 @@
-#!/bin/sh
-
-cd ./bot-as && alive bot.as
